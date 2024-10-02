@@ -1,3 +1,14 @@
+
+/*
+    ==================================
+
+        Muhammad Idham Ma'arif
+             Anak Tekkom <3
+             
+    ==================================
+
+*/
+
 import java.util.Scanner;
 
 public class Main {
